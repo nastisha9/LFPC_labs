@@ -1,2 +1,2 @@
-# LFPC laboratory works / Iațco Anastasia / FAF-202
+# LFPC laboratory works | Iațco Anastasia | FAF-202
  
