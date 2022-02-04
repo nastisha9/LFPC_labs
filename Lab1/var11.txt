@@ -1,0 +1,9 @@
+S -> aB
+S -> bB
+B -> bD
+D -> b
+D -> aD
+B -> cB
+B -> aS
+stop
+
