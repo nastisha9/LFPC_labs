@@ -13,5 +13,5 @@ P = {
 
 }
 
-This grammar is of type 3.
+This grammar is of type 3 regular grammar, right-linear grammar.
 
